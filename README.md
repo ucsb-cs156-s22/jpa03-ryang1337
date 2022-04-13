@@ -3,8 +3,8 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-ryang1337/branch/master/graph/badge.svg?token=v7Jpdz7FbO)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-ryang1337)
 
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/jpa03-ryang1337-docs/storybook>
-* QA:  <https://ucsb-cs156-s22.github.io/jpa03-ryang1337-docs-qa/storybook>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-ryang1337-docs>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-ryang1337-docs-qa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
