@@ -2,6 +2,8 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-ryang1337/branch/master/graph/badge.svg?token=v7Jpdz7FbO)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-ryang1337)
 
+repo: https://github.com/ucsb-cs156-s22/jpa03-ryang1337
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-ryang1337-docs>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-ryang1337-docs-qa>
